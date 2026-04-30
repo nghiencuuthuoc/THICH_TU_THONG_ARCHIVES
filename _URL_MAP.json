@@ -1,0 +1,378 @@
+[
+  {
+    "type": "category",
+    "title": "Kinh Đại Thừa",
+    "folder_name": "KINH DAI THUA",
+    "url": "http://thaohoiam.vn/chuyen-muc/kinh-dai-thua/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA",
+    "parent_folder": "THICH_TU_THONG"
+  },
+  {
+    "type": "category",
+    "title": "8 bộ kinh Đại Thừa",
+    "folder_name": "8 BO KINH DAI THUA",
+    "url": "http://thaohoiam.vn/chuyen-muc/kinh-dai-thua/8-bo-kinh-dai-thua/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Bát Nhã Ba La Mật Kinh",
+    "folder_name": "BAT NHA BA LA MAT KINH",
+    "url": "http://thaohoiam.vn/bat-nha-ba-la-mat-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\BAT NHA BA LA MAT KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Bát Nhã Đạo Tràng",
+    "folder_name": "BAT NHA DAO TRANG",
+    "url": "http://thaohoiam.vn/dao-trang-bat-nha/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\BAT NHA DAO TRANG",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Chứng Đạo Ca",
+    "folder_name": "CHUNG DAO CA",
+    "url": "http://thaohoiam.vn/chung-dao-ca/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\CHUNG DAO CA",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Duy Ma Cật kinh",
+    "folder_name": "DUY MA CAT KINH",
+    "url": "http://thaohoiam.vn/duy-ma-cat-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\DUY MA CAT KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Duy Thức Học",
+    "folder_name": "DUY THUC HOC",
+    "url": "http://thaohoiam.vn/duy-thuc-hoc/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\DUY THUC HOC",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Đại Bát Niết Bàn kinh",
+    "folder_name": "DAI BAT NIET BAN KINH",
+    "url": "http://thaohoiam.vn/dai-bat-niet-ban-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\DAI BAT NIET BAN KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Như Lai Viên Giác kinh",
+    "folder_name": "NHU LAI VIEN GIAC KINH",
+    "url": "http://thaohoiam.vn/nhu-lai-vien-giac-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\NHU LAI VIEN GIAC KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Pháp Hoa kinh",
+    "folder_name": "PHAP HOA KINH",
+    "url": "http://thaohoiam.vn/phap-hoa-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\PHAP HOA KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Thủ Lăng Nghiêm kinh",
+    "folder_name": "THU LANG NGHIEM KINH",
+    "url": "http://thaohoiam.vn/thu-lang-nghiem-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA\\THU LANG NGHIEM KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\8 BO KINH DAI THUA"
+  },
+  {
+    "type": "category",
+    "title": "Phật Học Vấn Đáp",
+    "folder_name": "PHAT HOC VAN DAP",
+    "url": "http://thaohoiam.vn/chuyen-muc/kinh-dai-thua/trich-doan-8-bo-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "Suy Gẫm",
+    "folder_name": "SUY GAM",
+    "url": "http://thaohoiam.vn/suy-gam/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\SUY GAM",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp Bát Nhã Ba La Mật kinh",
+    "folder_name": "VAN DAP BAT NHA BA LA MAT KINH",
+    "url": "http://thaohoiam.vn/bat-nha-ba-la-mat-kinh-2/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP BAT NHA BA LA MAT KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp Bát Nhã Đạo Tràng",
+    "folder_name": "VAN DAP BAT NHA DAO TRANG",
+    "url": "http://thaohoiam.vn/van-dap-dao-trang-bat-nha/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP BAT NHA DAO TRANG",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp Chứng Đạo Ca",
+    "folder_name": "VAN DAP CHUNG DAO CA",
+    "url": "http://thaohoiam.vn/van-dap-chung-dao-ca/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP CHUNG DAO CA",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đáp Duy Ma cật kinh",
+    "folder_name": "VAN DAP DUY MA CAT KINH",
+    "url": "http://thaohoiam.vn/van-dap-duy-ma-cat-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP DUY MA CAT KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp Duy Thức Học",
+    "folder_name": "VAN DAP DUY THUC HOC",
+    "url": "http://thaohoiam.vn/duy-thuc-hoc-2/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP DUY THUC HOC",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đáp Đại Bát Niết Bàn kinh tập 1",
+    "folder_name": "VAN DAP DAI BAT NIET BAN KINH TAP 1",
+    "url": "http://thaohoiam.vn/van-dap-dai-bat-niet-ban-kinh-tap-1/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP DAI BAT NIET BAN KINH TAP 1",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đáp Đại Bát Niết Bàn kinh tập 2",
+    "folder_name": "VAN DAP DAI BAT NIET BAN KINH TAP 2",
+    "url": "http://thaohoiam.vn/dai-bat-niet-ban-kinh-2/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP DAI BAT NIET BAN KINH TAP 2",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đáp HD Tăng Ni tại trường Phật Học Tp. HCM",
+    "folder_name": "VAN DAP HD TANG NI TAI TRUONG PHAT HOC TP HCM",
+    "url": "http://thaohoiam.vn/van-dap-bai-giang-tang-ni-tai-truong-ph-tp-hcm/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP HD TANG NI TAI TRUONG PHAT HOC TP HCM",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đáp Như Huyễn Thiền Sư thi tập",
+    "folder_name": "VAN DAP NHU HUYEN THIEN SU THI TAP",
+    "url": "http://thaohoiam.vn/van-dap-nhu-huyen-thien-su-thi-tap/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP NHU HUYEN THIEN SU THI TAP",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đáp Như Lai Viên Giác kinh",
+    "folder_name": "VAN DAP NHU LAI VIEN GIAC KINH",
+    "url": "http://thaohoiam.vn/van-dap-nhu-lai-vien-giac-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP NHU LAI VIEN GIAC KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp Pháp Hoa kinh",
+    "folder_name": "VAN DAP PHAP HOA KINH",
+    "url": "http://thaohoiam.vn/phap-hoa-kinh-2/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP PHAP HOA KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp Thủ Lăng Nghiêm kinh",
+    "folder_name": "VAN DAP THU LANG NGHIEM KINH",
+    "url": "http://thaohoiam.vn/thu-lang-nghiem-kinh-2/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP THU LANG NGHIEM KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "post",
+    "title": "Vấn Đáp-Các bài giảng trường hạ",
+    "folder_name": "VAN DAP CAC BAI GIANG TRUONG HA",
+    "url": "http://thaohoiam.vn/van-dap-cac-bai-giang-truong-ha/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP\\VAN DAP CAC BAI GIANG TRUONG HA",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\PHAT HOC VAN DAP"
+  },
+  {
+    "type": "category",
+    "title": "Các bài giảng khác",
+    "folder_name": "CAC BAI GIANG KHAC",
+    "url": "http://thaohoiam.vn/chuyen-muc/kinh-dai-thua/cac-bai-giang-khac/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA"
+  },
+  {
+    "type": "post",
+    "title": "A Di Đà kinh",
+    "folder_name": "A DI DA KINH",
+    "url": "http://thaohoiam.vn/a-di-da-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\A DI DA KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Bài Giảng Tăng Ni 2014 tại Trường PH Tp. HCM",
+    "folder_name": "BAI GIANG TANG NI 2014 TAI TRUONG PH TP HCM",
+    "url": "http://thaohoiam.vn/bai-giang-tang-ni-2014-tai-truong-ph-tp-hcm/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\BAI GIANG TANG NI 2014 TAI TRUONG PH TP HCM",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Bát Đại Nhân Giác kinh",
+    "folder_name": "BAT DAI NHAN GIAC KINH",
+    "url": "http://thaohoiam.vn/bat-dai-nhan-giac-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\BAT DAI NHAN GIAC KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Đại Thừa Vô Lượng Nghĩa kinh",
+    "folder_name": "DAI THUA VO LUONG NGHIA KINH",
+    "url": "http://thaohoiam.vn/dai-thua-vo-luong-nghia-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\DAI THUA VO LUONG NGHIA KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Địa Tạng ( Trích NHTS thi tập)",
+    "folder_name": "DIA TANG TRICH NHTS THI TAP",
+    "url": "http://thaohoiam.vn/dia-tang-trich-nhu-huyen-thien-su-thi-tap/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\DIA TANG TRICH NHTS THI TAP",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "HDTH tại trường Phật học TP.HCM",
+    "folder_name": "HDTH TAI TRUONG PHAT HOC TP HCM",
+    "url": "http://thaohoiam.vn/cac-bai-giang-chua-thien-minh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\HDTH TAI TRUONG PHAT HOC TP HCM",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Lời Nhắc Nhở Học Phật tại Trường PH Tp HCM",
+    "folder_name": "LOI NHAC NHO HOC PHAT TAI TRUONG PH TP HCM",
+    "url": "http://thaohoiam.vn/loi-nhac-nho-hoc-phat-tai-truong-ph-tp-hcm/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\LOI NHAC NHO HOC PHAT TAI TRUONG PH TP HCM",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Ngày xuân suy gẫm",
+    "folder_name": "NGAY XUAN SUY GAM",
+    "url": "http://thaohoiam.vn/xuan-suy-ngam/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\NGAY XUAN SUY GAM",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Ngũ Thừa Phật Giáo",
+    "folder_name": "NGU THUA PHAT GIAO",
+    "url": "http://thaohoiam.vn/ngu-thua-phat-giao/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\NGU THUA PHAT GIAO",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Quán Thế Âm (Trích NHTS thi tập)",
+    "folder_name": "QUAN THE AM TRICH NHTS THI TAP",
+    "url": "http://thaohoiam.vn/quan-the-am-trich-nhu-huyen-thien-su-thi-tap-2/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\QUAN THE AM TRICH NHTS THI TAP",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Quy Sơn Cảnh Sách",
+    "folder_name": "QUY SON CANH SACH",
+    "url": "http://thaohoiam.vn/quy-son-canh-sach-3/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\QUY SON CANH SACH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Tam Bảo Học",
+    "folder_name": "TAM BAO HOC",
+    "url": "http://thaohoiam.vn/thap-nhi-nhan-duyen/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\TAM BAO HOC",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Tứ Diệu Đế (Trích NTCT 3)",
+    "folder_name": "TU DIEU DE TRICH NTCT 3",
+    "url": "http://thaohoiam.vn/tu-dieu-de-trich-ngon-tay-chi-trang-3/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\TU DIEU DE TRICH NTCT 3",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Tu Phước - Tu Tuệ",
+    "folder_name": "TU PHUOC TU TUE",
+    "url": "http://thaohoiam.vn/tu-phuoc-tu-tue/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\TU PHUOC TU TUE",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Tứ Thánh Đế (Trích ĐBNB kinh)",
+    "folder_name": "TU THANH DE TRICH DBNB KINH",
+    "url": "http://thaohoiam.vn/tu-thanh-de-trich-dai-bat-niet-ban-kinh/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\TU THANH DE TRICH DBNB KINH",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Tứ Thập Nhị Chương",
+    "folder_name": "TU THAP NHI CHUONG",
+    "url": "http://thaohoiam.vn/quy-son-canh-sach/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\TU THAP NHI CHUONG",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Vấn đề sanh tử",
+    "folder_name": "VAN DE SANH TU",
+    "url": "http://thaohoiam.vn/van-de-sinh-tu/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\VAN DE SANH TU",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Xử lý vấn đề sanh tử",
+    "folder_name": "XU LY VAN DE SANH TU",
+    "url": "http://thaohoiam.vn/xu-ly-van-de-sanh-tu/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\XU LY VAN DE SANH TU",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Ý Nghĩa Tam Giới Trong Đạo Phật",
+    "folder_name": "Y NGHIA TAM GIOI TRONG DAO PHAT",
+    "url": "http://thaohoiam.vn/y-nghia-tam-gioi-trong-dao-phat/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC\\Y NGHIA TAM GIOI TRONG DAO PHAT",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG KHAC"
+  },
+  {
+    "type": "post",
+    "title": "Các Bài Giảng Trường Hạ",
+    "folder_name": "CAC BAI GIANG TRUONG HA",
+    "url": "http://thaohoiam.vn/cac-bai-giang-truong-ha/",
+    "folder_path": "THICH_TU_THONG\\KINH DAI THUA\\CAC BAI GIANG TRUONG HA",
+    "parent_folder": "THICH_TU_THONG\\KINH DAI THUA"
+  }
+]
