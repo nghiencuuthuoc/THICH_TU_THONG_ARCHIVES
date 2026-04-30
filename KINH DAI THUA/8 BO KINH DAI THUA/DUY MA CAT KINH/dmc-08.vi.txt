@@ -1,0 +1,1422 @@
+Hãy subscribe cho kênh lalaschool Để không bỏ lỡ những video hấp dẫn
+Hôm nay thì chúng ta nghiên cứu về cái phẩm cái chương thứ nhất, sở dĩ cái chương thứ nhất mà tôi triển khai có hơi chậm như vậy là cũng có cái ý là muốn nhắc cho đại chúng nghiên cứu kỹ về cái phẩm đó, về cái chương đó.
+Tuy nhiên đó cái nhan đề là Phật Quốc
+Tức là cõi nước Phật
+Cõi nước thanh tịnh của nước Phật
+Mọi người đệ tử Phật
+Tu hành rồi ai cũng sẽ được thành Phật
+Và ai cũng có thể có một cõi nước thanh tịnh
+Điều đó là cái điều Đức Phật đã xác định như thế
+Nhưng cái điều mà
+Chúng ta cần để ý ở đây là
+Xây dựng để cho có được
+Quả Phật thành tận đó bằng những cái
+Tất liệu gì
+Bằng những cái việc làm gì
+Thì cái phẩm Phật Quốc
+Chứ chưa một đó
+Nói rõ rồi
+Nói kỹ cái đó
+Cho nên tôi
+Điển khai chậm
+Là để nhắc nhỏ toàn thể đại chúng
+Để ý về cái việc đó
+Phật quốc cũng tức là
+Quả nước thanh tịnh
+Cũng là tịnh độ
+Cũng giống như là
+Ta thường
+Hằng đêm mà tu học
+Tụng niệm Kinh Na-di-đà
+Cầu sanh về tịnh độ vậy
+Thế thì tịnh độ
+Là Phật quốc
+Phật quốc là tịnh độ
+Thì
+Cái tụng niệm mà thông thường
+Mà ta cầu sanh
+Trong mấy cuộn văn hoa
+Tôi có nói rõ
+Để chúng để ý cho đó
+Nếu như chúng ta mà chỉ
+Dựa vào cái lời cầu nguyện
+Trong cái công đức
+Mà tu hoàn niệm Phật thôi
+Dựa vào cái sự mong muốn
+Không thôi
+Thì cái việc mà thành tựu
+Cái quả nước Phật thành tựu đó
+Nó còn cách biệt
+Xa xăm lắm
+Mà như cái chương 1
+Nói về Phật quốc này
+Thì các chị thấy rõ
+Về những cái những chuyện
+Mà để xây dựng thành cõi Phật thanh tịnh
+Là tịch tâm, là bồ đề tâm
+Là thâm tâm, là trí thành tâm
+Là hồi hướng tâm, v.v.
+Để cái đó
+Thì trên đường tu tập của mình
+Không có sai lầm nữa được
+Cái điều bữa nay là tới cái chương thứ 2
+Trường thứ hai
+Là phương tiện
+Trường thứ hai phương tiện này
+Thì đại chúng cũng nhớ rằng
+Pháp qua
+Phẩm thứ hai cũng là phẩm phương tiện
+Thì phương tiện là gì
+Cái này đại chúng để ý cho nè
+Bồ Tát
+Bồ Tát là
+Dì Ma Cật
+Tạo ra cái cơ
+Nguyên tụ đông người đến để
+Mà thiết pháp
+Bồ Tát Nhi Ma Cật
+Không bệnh
+Mà
+Giả bệnh
+Đó là Bồ Tát Nhi Ma Cật
+Sử dụng cái phương tiện
+Lấy cái thân của mình
+Mà làm phương tiện
+Lấy cái thân giả bệnh mà
+Để cho Phật
+Cũng như là các đại chúng
+Nghe rằng là trưởng giả
+Nhi Ma Cật bệnh
+Đến cái thân bệnh
+Nhân có cơ hội đó để phương pháp
+Thế thì lấy thân làm phương tiện
+Mà đại chúng nhớ rằng là
+Cái chữ phương tiện là nó đi lại với
+Cái mục nít cứu cánh
+Thế thì lấy cái thân làm phương tiện
+Mà còn mục nít cứu cánh là gì
+Cái mục nít cứu cánh đó là
+Phải vận dụng thêm
+Cái phương tiện về khẩu
+Tức là về miệng đó
+Bởi vì con người nó có ba nghiệp
+Thân, miệng và dãy
+Thế thì là
+Thân không bệnh mà giá bệnh
+Đó là phương tiện về
+Về việc làm
+Về thân
+Rồi cái Pháp mà được nói
+Ở cái
+Ở cái chương này
+Ở cái phẩm kinh này
+Chưa đá động gì đến cái Pháp của Đại Thừa
+Kinh này là kinh Đại Thừa
+Liễu nghĩa
+Đốn giáo Đại Thừa Liễu nghĩa
+Nhưng mà đại chúng nhớ rằng là
+Cái phẩm phương tiện phẩm thứ hai này
+Là hoàn toàn là nói pháp tiểu thừa
+Rồi đây tôi sẽ phân tích
+Đại chúng thấy thế nào là pháp tiểu thừa
+Còn thế nào là pháp đại thừa
+Thì trong cái chương thứ hai này
+Hoàn toàn là nói pháp tiểu thừa
+Chứ nó đáy động gì đến pháp đại thừa
+Chỉ nói cái pháp tiểu thừa
+Đó là phương tiện về
+Phước pháp tức là
+Về khẩu nghiệp
+Phương tiện về thân
+Phương tiện về khẩu
+Dùng cái lối pháp
+Bằng ngôn từ
+Để hướng dẫn đại chúng
+Hướng dẫn tư tưởng của đại chúng
+Từ cái suy nghĩ
+Về thân
+Để mà chán ngán xem thường cái thân
+À
+Ở trong này
+Nói bao nhiêu
+Cái sự rượu rã mục nát
+Ngô thường bại quại của thân
+Đấy là phụ trị tư tưởng của tiểu thừa
+Là chính để như vậy
+Làm cho khiếp cho mọi người
+Vì sự mục nát
+Xem thường
+Thân vì sự mục nát
+Là tạm bỡ
+Sự bất tịnh, sự không bền chất
+Của thân
+Khuyến khích mọi người hãy phát cái tâm ham mộ
+Phật thân
+Thân Phật
+Giới thiệu thân Phật là thân kim can
+Bất quản
+Cô động bởi
+Bởi vô lượng công đức
+Và sự thể hiện
+Của bồ đề Niết Bàn Vô Thượng
+Đó là phương tiện
+Vì tư tưởng về ý
+Của Bồ Tát Di Ma Cập
+Thế thì
+Vân Dũng thân khẩu ý
+Tạo ra cái điều kiện
+Một cái nhân cơ
+Để thiếu thăm
+Làm cho mọi người
+Là biết rõ
+Cái tai quạ về cái thân này
+Và khuyến khích
+Mọi người hướng về
+Cái thân thiên ca bất quả của Phật
+Mà giả ra
+Điện ra có bệnh
+Chứ kỳ thật không phải là bệnh
+Vì vậy cho nên cái phẩm này
+Gọi là phương tiện
+Cũng như trên Pháp Hoa
+Cái phẩm thứ hai là phẩm phương tiện
+Đã chứng nhớ đồng đó nói gì
+Đức Phật cho biết
+Đức Phật thích ca
+Mà
+Cái bậc xuất hiện ở trong quả đời này
+Không phải là xuất hiện
+Để cho chúng sanh
+Tôn thờ
+Lễ bái
+Cúng dường
+Gọi là
+Giao trồng những phước đức
+Vì sự cúng dường, lễ bái
+Một Đức Phật
+Không phải vậy
+Đức Phật Thích Ca cho biết
+Không phải vậy
+Mà Đức Phật Thích Ca
+Đến quả này với mục đích là
+Khai thị ngộ nhập
+Phật thi kiến cho chúng sanh
+Giới thiệu cái thi kiến Phật của chúng sanh
+Cho chúng sanh biết
+Chỉ rõ cái thi kiến Phật của chúng sanh
+Mọi người đã có
+Cho chúng sanh nhận thức kỹ
+Và hướng dẫn cho chúng sanh hiểu kỹ
+Về cái thi kiến Phật vốn sẵn có của mình
+Và cuối cùng đưa ra một phương pháp
+Tô hành khuyến khích chúng sanh
+Hãy sống bằng cái suy kiếm Phật đó
+Để rồi mọi người được thành Phật hết
+Cái đó mới là
+Mới là cái mục đích
+Còn cái mà thực hiện ở đời
+Là thành một vị hoàng tử
+Rồi đi tu, rồi thực gia
+Rồi thành đạo, rồi kiểu mắt lưng
+Tất cả những cái đó
+Đều thuộc về phương biện
+Kể cả 49 năm
+Pháp mà chưa nói trên Pháp Hoa
+Chưa chỉ
+Cái suy kiếm Phật cho chúng ta
+Chưa giới thiệu suy kiếm Phật cho chúng ta
+Chưa khẳng định rằng là tất cả chúng sanh đều có tri kiến Phật
+Chưa khẳng định rằng tất cả chúng sanh đều đã thành Phật
+Đang thành Phật và sẽ thành Phật
+Thì tất cả thời gian nói Pháp đó đều là phương tiện hết
+Còn cái cấu cánh là chỉ cho chúng sanh về cái tri kiến Phật
+Làm cho chúng sanh nhận thức kỹ về tri kiến Phật của mình
+Và mọi người tự nhận mình là Phật
+Thì cái đó mới là đạt tới cái mục đích cấu cánh
+Để chúng để ý về cái chữ phương tiện của Phật này
+Kinh này cũng như là cái phẩm thứ 2
+Của kinh thông qua
+Nói cách khác là
+Phương tiện nó giống như là
+Nghĩa của sự sách lượng
+Làm việc đó
+Trong chuyện làm như vậy đó
+Nhưng mà chưa phải là
+Đó là cái giai đoạn đầu
+Chứ chưa phải là
+Mục đích
+Đạt đến ở chỗ đó
+Về phương tiện
+Là chính trị về quân sự
+Người ta cũng vận dụng sách lượng
+Sẽ đưa ra cái mục đích tới cỡ đó
+Nhưng mà chưa phải là ngừng ở đó
+Nhưng mà bây giờ là cái yêu cầu của nguồn chúng nhân dân
+Tới cỡ đó mà
+Tới cái cỡ mà hoàn thành một cái xã hội
+Tới cỡ ngang tầm trên chỗ ta muốn
+Nhưng mà sau đó rồi tới đó thì không phải vậy
+Mà nhà trách trị sẽ đưa nó cao lên hơn nữa
+Cái bì dây đoạn đầu gọi là sách lượng
+Thì nước Phật cũng vận dụng cái phương tiện
+Cũng tức là một hình thức sách lượng
+Ra đời 49 năm trước Pháp
+Nhưng mà chưa nói sinh Pháp qua
+Chưa nói kinh viết bàn
+Chưa chỉ rõ Phật tính của mọi người
+Chưa chỉ rõ rằng mọi người là Phật
+Thì mấy mươi năm đó
+Những kinh điểm đó đều gọi là phương tiện hết
+Đây bắt đầu vô cái phẩm này đây
+Bây giờ Phạm Thị Gia Ly
+Có một nghị tưởng giả
+Tên là Ghi Ma Cật
+Ghi Ma Cật là
+Trung Hoa dịch là bệnh danh, bệnh danh tức là cái tên gọi của những người thanh tịnh, của những người là lúc nào cũng trong sáng dặn thanh tịnh, cũng có các cái sự cấu ế, do đó cho nên là chỉ như bác cập tôi dịch là bệnh danh, rồi như Ngài Quỳnh Sang lại dịch là vô cấu sinh,
+Cái tịnh thì ngài vừa trang dịch là vô cấu, những danh ngài vừa trang dịch là xưng.
+Thế thì là tịnh danh ta có thể kêu bằng, gọi cái tên đó bằng hai cách.
+Một đó là tịnh danh, hai đó là vô cấu xưng.
+Vô cấu xưng là cái tên gọi của những người là thanh tịnh, những người vô cấu.
+Không có các cái điều là phiền não ô trượt ở trong người này, kêu là vô cấu.
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+Các cái sự cấu quế phiền não
+Trong con người đó
+Người thanh tịnh hoàn toàn
+Vì vậy cho nên là cũng có thể gọi
+Chữ Di Ma Cật
+Dịch vệ thứ hai là tịnh danh
+Tịnh là thanh tịnh
+Danh cũng là cái tên gọi
+Của những người mà thanh tịnh
+Những người không có các sự cấu quế
+Phiền não, nhiễm ô
+Như những người thường khác
+Gọi đó là Di Ma Cật
+Vì vậy cho nên là
+Trước khi mà tôi chuẩn bị
+Dạng cái quyển này
+Cũng có một vài người hơi lo lắng
+Một vài vị lo lắng
+Mà nói trước với tôi
+Là tôi dạng kinh này
+Cũng nên nương nương
+Đừng có nói thẳng
+Đừng có đề cao
+Ông như ma cạc quá
+Đề cao như ma cạc quá
+Làm cho các thằng sư sĩ họ lên chân
+Bởi vì ông như ma cạc tôi là trưởng giả
+Là một người sư sĩ mà
+Phải lên chân
+Lưng lên
+rồi họ qua thường
+cứ tăng, cứ bi
+tôi nói như vậy không được
+nói như vậy là
+chính rõ như mình đã đọc kinh Như Ma Cật rồi
+đã hiểu kinh Như Ma Cật rồi
+chứ nói như vậy là hoàn toàn sai lầm
+mặc dù là
+ông Như Ma Cật là trưởng giả
+là người cư sĩ đấy
+nhưng mà không phải là hẻ ông cư sĩ nào
+cũng linh chứng như
+ông Như Ma Cật
+là vì
+cái cách tu của ông Như Ma Cật
+ta đọc cái phẩm này này
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+người khác coi thường người khác chứ đừng nói chi là là cái gì cho nên cái vật đó là lại chống lý
+một câu nói mà nghe là biết cái người đó là ra sao rồi đấy không ai đỡ coi thường ai hết
+ở trên đạo đức của mình cao là mình nhờ giải pháp giải thoát an lạc của mình nhiều thì mình
+ở thôi chứ sao lại coi thường người khác coi thường người khác là tự nói là một cái thứ phiền
+Thì còn nói cái chuyện tu hành gì nữa
+Trong thành tùy danh có vị trưởng giả tên là Nhi Mã Cật
+Trưởng giả Nhi Mã Cật là người đã từng cúng dường vô lượng chư Phật
+Góc rễ lạnh tầm sâu
+Cho nên ông là ông đã được vô sanh pháp nhẫn
+Đấy
+Đã từng cúng dường vô lượng chư Phật căng lạnh tầm sâu
+Đã được vô sanh pháp nhẫn
+Thế thì là bây giờ là với hành thức thư sĩ đấy
+Trưởng giả Nhi Mã Cật đấy
+Nhưng mà
+Bây giờ tôi nghĩ là có được
+Vô danh pháp nhẫn chưa
+Vô danh pháp nhẫn
+Nghĩa là
+Cái người này là có cái tí tuệ
+Tên nhân dạng pháp bất sanh bất
+Bất diệt
+Sự sanh diệt của dạng pháp là sự sanh diệt của
+Những cái cùng nó nổi thìm ẩm nhiễm trên biển
+Vô cùng
+Nó là những cái bọt bốc sóng ngoài
+Nổi trên mặt biển
+Nhô lên rồi hấp
+Rồi bình lặng bình lặng rồi nhô lên
+Cái kỳ thật là cái sự nhô lên của sống ngoài
+Không vì vậy mà làm cho nước biển nhiều ra
+Khi nó bình lặng xuống không phải vì vậy mà nước biển mất đi
+Thì nhìn sư pháp hiện tượng này cũng như là cái người chế
+Mà nhìn cái sự nhô lên là bình lặng xuống của mặt biển vậy
+Giảng pháp là từ bản thể nhân khởi ra hiện tượng
+Từ hiện tượng trở về bản thể
+Sự sanh đó là bất sanh
+Vì sanh không thật sanh
+Việc của giảng pháp là bất việt
+Vì việc không thật việc
+Sự sinh việc đó là
+Nhân như hội tụ
+Còn tương tục
+Thì gọi là giả pháp sanh
+Nhân như mà chia ly
+Thì gọi là giả pháp việc
+Sự sinh việc đó
+Nó không có không thật
+Thì nhận thức được
+Và sống bằng cái tinh thần đó
+Đối với giả pháp
+Đối với hiện tượng giả pháp
+Gọi là người đạt chứng được pháp nhẫn vô sanh
+Do đó cho nên cái sự sống
+Sự chết, sự mất, sự còn, sự sân, sự diệt
+Cái người mà đạt được
+Vô sinh pháp nhẫn người ta an yên tự tại
+Thế thì trong chúng ta
+Ai là người được ở đó chưa
+Cho nên
+Như Ma Cật mặc dù là người sinh sĩ
+Mà đã thành tích đã như thế
+Trong hàng Bồ Tát
+Như Ma Cật là vị Bồ Tát
+Biện tài vô ngại
+Vô lý thần thông
+Hàng phục các ma
+Được vô quý
+Thể nhập sâu sắc các pháp môn
+Tí tuệ siêu tuyệt
+Thương tiện
+Linh hoạt
+Biết rõ
+Tâm tưởng của chúng sanh
+Thân biệt động căng
+Lợi căng của đối tượng
+Đây
+Nhà dư mặt cật là thế đấy
+Ở trong Phật đạo
+Từ lâu
+Đã thuần phục
+Thâm tích đại thừa
+Việc làm những trải suy nghĩ chính chắn
+trụ ngoài viên Phật. Trưởng giả mà, chư sĩ mà trụ trong cái ngoài viên Phật à. Tâm lớn như biển,
+chứ Phật ngợi khen hàng trời. Hàng trời cung kích vì muốn đổ người. Trưởng giả như ma cạch,
+thương tiện, diễn ở thành tỳ gia ri. Như vậy là ta gọi là kiếp thị hiện là vậy đó. Thị hiện nghĩa là
+Là hiện một cách nghĩa là tùy ý
+Tùy ý và nói cách khác là nôn na là như là giả đò
+Làm vậy chứ không phải vậy
+Chẳng hạn như là bệnh chứ mà không phải thật bệnh
+Thì cái bệnh đó là chỉ là một cái duyên có thôi
+Để mà tập hội đại chúng lại
+Tập hợp đại chúng lại để chức pháp
+Thế thì cái bệnh đó là cái bệnh giả đò
+Thì cái bệnh đó gọi là thị hiện
+Chứ thị hiện có nghĩa là giống như là giả đò
+Còn ví dụ như giờ chúng ta đây nè
+Chúng ta nghe là
+Nếu mà không ở cái thành phố Sài Gòn này
+Thì chúng ta không có cái chỗ đất nào khác để ở cả
+Ví dụ như vậy
+Cho nên giờ đã là chôn nhau các lúc ở đây
+Thì bây giờ chỉ ở đây thôi
+Vì cái ở đó là do cái hoàn cảnh bắt buộc cái đời sống phải ở
+Còn như bây giờ người ta có thể ở bên Pháp cũng được
+Bên Mỹ cũng được
+Bên Úc cũng được
+Và ở chỗ nào cũng được
+Mà rất là sang trọng hơn hết
+hơn nhiều người
+nhưng mà bây giờ ta vì một cái lẽ
+gì là đồng gấp
+công lao sức lực của mình
+về đất nước, về cho dân tộc
+hay là vì một cái lý tưởng gì đó
+ta về ta ở
+thành phố ở bên này
+để ta tiêm truyền tính pháp
+hay là ta giáo dục một mô hợp hành nào
+cho người, cho nhân dân
+cho đồng bào mình
+mà ở cái cảnh
+tôi nói là trật trội
+hoặc là khiến phương tiện
+Không giống như là cái chỗ
+Gốc của người ta
+Như thế thì cái đó gọi là thị viện
+Ở cái kiểu đó là vì
+Cái lý tưởng
+Thành ra Ngài Duy Ma Cật
+Mà đóng một cái giai trò
+Chủ giả này ta có thể gọi là
+Thị viện là như vậy
+Vì muốn cảm hóa
+Những người nghèo
+Ngài Duy Ma Cật
+Bố thí rất nhiều của cải
+Để cảm hóa người
+Rất nhiều kẻ cải
+Để cảm hóa người phạm giới
+Ngài truyền giới thanh tịnh
+Để cảm hóa người nóng nải
+Ngài biểu lộ
+Cái hạnh thiên nhẫn ôn hòa
+Để đổ người giải đải
+Ngài thực hành tinh tấn
+Để cảm hóa người loạn tâm
+Ngài thuyền định nhất tâm
+Để cảm hóa người
+Ngô trí
+Ngài hướng dẫn
+Pháp quy trí tuệ
+Như thế thì lục đọ
+Lục đọ
+Bố thí thì với những nhục tinh tấn thiền định
+Ngài là gương máu
+Cho tất cả những cái hạnh đó
+Nếu đấy thì là
+Trong hàng thi sĩ chúng ta là có
+Ai làm được chuyện đó rồi
+Chưa
+Thành ra ta nghe những cái việc này
+Là một cái cách mà
+Đức Phật cho biết rằng
+Cái việc chung hành là
+Nó không phải
+Ở nơi cái hình thức
+Ở đây mà dựng lên
+Cái hình thức của trưởng giả
+Nhưng mà cậc là nhầm nói lên
+Cái tư tưởng đại thù
+Kinh khiếp là ở chỗ đó
+Cái tư tưởng của đại thù
+Kinh khiếp là ở cái chỗ là
+Cái người tu hành á
+Không phải chỉ có hình thức
+Mới làm nên được đại sự
+Lợi ích cho chúng ta
+Hình thức thì cũng cần
+Cho những người đại tử sức gia cũng làm nên đại sự vậy
+Tuy nhiên anh đây muốn nói lên
+Rằng là cái hình thức cư sĩ
+Cũng có thể làm nên đại sự lợi lạc cho chúng ta
+Muốn nói lên cái điều đó
+Khuyến khích cái điều đó
+Đối với hành cư sĩ
+Chứ không phải nói cái này lên để cho cư sĩ lên chân
+Vì vậy cho nên
+Sợ cư sĩ lên chân
+Sợ cư sĩ nghe chân này là ngã bạn
+Là một sự xa lầm
+Không có nên sợ cả đời
+Bởi vì người cư sĩ này mà không phải là tâm hồn cư sĩ
+Mặc dù là cái tầng trong này là
+Các vị Bồ Tát như là Bồ Tát Giang Phù
+Người Cư Sĩ làm được như vậy thì là ngươn mẫu ở trong đại chúng kia mà.
+Dù ngày tạ gia mà không lưu miếng tàm giới
+Giả có vợ con mà thường tu phạm hạnh
+Hiện có nguyên thuộc mà thường thích viễn ly
+Mấy cái này thì làm sao mình làm nổi
+Hiện có nguyên thuộc mà thường thích viễn ly
+Giả có vợ con mà thường không có lưu miếng
+Thường thích phạm hạnh
+Làm sao mình làm nổi
+Dù phục sức đồ quý mà
+Mà lòng á
+Thì cưu mang á
+Là cái thân tướng hảo
+Chứ còn cái phục sức ở bên ngoài cũng không có phải cần
+Dù có ăn uống như thế gian
+Mà cái vị chất là vui
+Trong thiền định
+Ăn uống cũng ăn tất cả như mọi người
+Nhưng mà cái vị mà gọi là ngon
+Bằng lòng là
+Phưởng thức đó
+Bằng lòng nhất đó
+Là cái vị thiền định chứ không phải là cái vị
+Trong những cái thứ
+Là thịt béo ngựa nồng
+Có lúc tham gia phòng bạc
+Cốc yếu là nhầm để độ người
+Lúc tùy thuận ngoại đạo
+Mà chánh trích không lung lạc
+Cư thủy là thế này
+Vào phòng bạc để nói lên cái tai quạ
+Của sự cơ bản
+Vào trong các cái chỗ
+Như là ngoại đạo
+Vẫn là
+Thân cận lăn la
+Nhưng mà tâm hồn vẫn dữ dàng
+Vĩnh vàng đứng trong tránh pháp
+Lập trường của tránh pháp
+Và bằng mọi cách để trừ bãi tránh pháp
+Đọc hiểu suốt
+Sắp dở thế gian
+Mà thường vui với giáo pháp thật
+Nhằm cảm ơn mọi người
+Mà giữ gìn tránh pháp
+Kinh doanh được nhiều tiền của
+Nhưng mà chẳng có
+Chẳng lấy đó làm vui
+Mấy cái đoạn này
+Đọc cái này nữa
+Hết sức là nó thú vị
+Ta phải tập cái đó
+Phải tập nội những cái điều
+Mà của cái đức sánh
+Mà ngày hôm nay mà cả trò
+Dạo chơi khắp phố phường
+Để làm điều lợi ích chúng sanh
+Có lúc tham gia trị trách
+Nhằm để cứu độ quốc dân
+Có khi tham dự các diễn đàn hội thảo
+Cốt là
+Lèo lái hướng dẫn mọi người
+Đi vào con đường chánh đạo
+Của đại thường
+Nghe mấy cái này thật quá
+Thật quá
+Làm sao mà tự cao, tự hào, tự đại, tự tôn được
+Chúng ta phải học suốt đời
+Mà tu tập đời này qua đời khác
+Mới là có cái nghị lực, cái khả năng làm điều này
+Chứ làm sao mà tự hào được
+Sưng sỉ mà còn nghe
+Còn phải sáng đỡm kinh tâm
+Còn phải là nguyện đời đời
+Mình làm còn chưa thấy
+Là hành công nổi mà
+Chỉ nghe
+Mà người chư sĩ
+Mà nào mà ngã mạng cống cao được
+Giờ học đường
+Nhằm để dẫn dắt tuổi thơ
+Có lúc
+Đến
+Thanh lâu
+Để làm
+Để nhằm chỉ cho mọi người
+Mọi người về cái tai quạ của á dục
+Do đó cho nên là
+Chữ án cô gọi là
+Có cái câu kêu mình dâm phòng tử tứ
+Mà ngô phi thanh tịnh đạo tràng
+Nói với Ngài, có đến lúc không lâu đến chỗ giam phòng, có những lúc vào trong quán rượu, mà chỗ nào cũng là đạo tàng thanh tịnh, là người ta đi đây là ta đi với cái tinh thần thị nghiệm, với cái tích nghiệm là độ chúng sanh, chứ không phải đi vào đó để mà nướng mình vào ở chỗ đường, chỗ quán đó.
+Vào quán rượu
+Như mọi người
+Nhưng mà nhầm để
+Nêu cái gương tự chủ
+Vào quán rượu mà không có bị sai
+Vẫn tự chủ
+Và nói
+Những cái tai quạ của những người
+Uống rượu mà để cho nó say sương
+Cho nên vào quán rượu mà
+Mà vẫn làm loại loại
+Chính xác là vậy
+Đọc tới con này
+Thì tôi cũng nhớ trong này có 6 Phật tử
+6 Phật tử nam
+Trong sách nho có câu là
+Tử trung bất ngữ
+Chân quân tử
+Tài thuận phân minh đại trượng vui
+Cái người quân tử
+Nó vào trong tiệp rượu
+Vẫn có thể uống rượu được
+Nhưng mà
+Uống rượu với cái điều kiện là
+Hoàn toàn không có sai
+Không có sai xưa, không có nói bại bại
+Người đó là người chân quân tử
+Gọi là tử tung bất ngữ chân quân tự
+Trong những cái tiệp rượu
+Có thể uống rượu
+Người bất tử tại gia
+Là giữ gìn năm giới
+Có thể là chưa giữ được giấy uống rượu
+Có thể uống rượu
+Hoặc là có những cái lúc mà nếu mình thấy rằng
+Các nhà khá, các nghị lực của mình
+Mà dò dào
+Mà bạn bè nào đó mà họ mời mình
+Trong một cái đám tiệp gì đó
+Mà là
+Cần uống rượu
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+Là người đâu phải có khả năng nghi lịch cho thì làm những đó. Nên là Phật vẫn khen này.
+Vấn đề là ở chỗ mà không xây xưa.
+Cho nên rượu về chư sĩ mà cái giới thứ năm ta gọi là giá giới.
+Giới đó có hai thứ. Tánh giới và giá giới.
+Tánh giới tức là cái giới đó.
+Đức Phật ra đời hay chưa ra đời thì xã hội người ta đã quy định phạm vào cái đó là phạm vào trọng tội.
+Bị tội, tù tội
+Tùy theo cái nghiêm trọng
+Là có thể giảm khinh
+Là do cái tội dân
+Và cái tội trạng của mình
+Thì như là giúp người
+Trộm cướp
+Tà hạnh
+Và
+Bội tính
+Tức là sát đạo dâm dòng
+Nói ra như từ Phật
+Sát đạo dâm dòng
+Viễn đạt ra là giúp người
+Tà dân
+Trộm cướp
+Và bội tính
+Bốn cái đó là gọi là tách giới
+Thật chưa ra đời
+Xã hội từ xưa tới nay
+Người ta đã quy định cái tội lỗi đó rồi
+Còn những cái giới thứ năm
+Của năm giới mà của người
+Tắc phải gia
+Việt Nam đấy
+Gọi là gia giới
+Gia giới tức là ngăn đề phòng
+Cho nên nếu thấy
+Mình có khả năng nghề lịch mà vì một cái nhóm anh em
+Mà họ còn say mê
+Đam mê quá nhiều rượu chè
+Mỗi lần uống là mỗi lần say sưa
+Mỗi lần uống là mỗi lần là phá hoại gia đình
+Thì có thể
+Vào trong đó
+Để mà cắt nghĩa
+Để mà xuyên dẫn
+Để mà uống nắng
+Để mà hướng dẫn
+Để tiêu phục họ
+Rồi ra khỏi cái xã xưa đó
+Thì cái đó là việc làm của mùa tác hạnh đấy
+Nhưng mà coi chừng
+Coi chừng mình vô đó là nó cứ hút luôn
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+Người trượng phu á
+Theo cái thánh hiền cổ kiên
+Người ta định nghĩa cái người trượng phu là cái người tài thượng
+Thông minh, không có hà làm
+Tiền bạc
+Lôi khôi
+Vì vậy mà
+Ta định nghĩa cái người trượng phu thêm
+Nó là phú quý bất năng dâm
+Bần tiện bất năng vi
+Nguyên dũng bất năng khuất
+Thử chi nhiên trượng phu
+Cái người trượng phu là cái người đó
+Già sang không bao giờ lôi cuốn
+Mê hoạt họ được
+Bần tiện bất năng duy
+Dù là ở trong hoàn cảnh nghèo hèn
+Nhưng mà tách tình không bao giờ thay đổi
+Không vì sự nghèo hèn
+Mà luôn cuối lục quất
+Thuộc rồi thưởng đổi rồi hạ đạp
+Để cho làm cái kinh cách
+Cái nhân phẩm con người mất đi
+Cái giá trị của con người
+Đó gọi là bần tiện bất năng duy
+Cái thứ ba là nguy dụng bất năng quất
+Vì một cái lý tưởng
+Vì một cái sự sánh nghĩa
+Không sợ bất cứ một chú nguy dụng nào
+Nếu cần có thể chết cũng cứ chết
+Do đó mà tôi có nói với đại chúng nhiều lần
+Chí sĩ nhân nhân
+Vô cầu sanh dĩ hợi nhân
+Hữu sát thân dĩ thành nhân
+Một là kẻ chí sĩ
+Hai là người nhân
+Có những lúc không cần sống
+Nếu sống đó là để mà sống hại người
+Không cần sống
+Có những lúc cần phải chết
+Chịu chết để mà thành tựu cái nức nhân của mình
+Thành ra cái người trưởng phu là cái người như thế
+Tài thưởng thông minh cũng là trưởng khu
+Rồi nói tới chỗ này tôi cũng nhắc lại chúng
+Cái cách mà nhìn đời
+Cái cách mà nhìn người
+Nhìn bạn trong cuộc sống đó mà
+Dễ ợt không có khó khăn gì hết
+Người ta có cái thước đo
+Tôi vừa nói cái câu
+Tài thưởng thông minh đại trưởng khu
+Chứ người trưởng khu là cái người đó
+Phải là tiền tài
+Là
+Vật chất là phải thông minh thôi
+Phải thanh niên, phải trông sáng mới là người trưởng quân
+Cho nên người ta đo đây này
+Cái cách mà làm bạn với nhau mà
+Làm bạn với nhau người ta đo bạn để ta chơi mà
+Có câu là thủy phương trượng
+Thám kê thanh thiện
+Nhân dụng tài giao tiện
+Kiến tâm
+Nước
+Con sông đó con gạch đó muốn biết nó sâu cạn
+Phải lấy gậy cho ta dọn
+Còn người muốn biết họ tốt xấu hả
+Dung tiền ra
+Trài với họ
+Hoặc là qua lại nhau bằng tiền bạc
+Thời gian là biết ngay tấm tật ngò
+Cho nên là
+Ta học
+Cuộc đời nó có nhiều cái hay lắm
+Cũng đồng thời thất nho
+Mà có những gì thất
+Nói rằng là quả hổ quả bì nang quả cốt
+Mà chi nhân chi diễn mất chi tâm
+Dễ cợt là dễ da chứ không ai dễ xuyên được
+Biết người biết mặt chứ không ai biết lòng
+Có những lúc là nó không biết lòng
+Nhưng mà có lúc là nó có cách để biết được
+Thủy tôn trượng thám
+tâm trí thân thiện mà nhân dụng tiền giao biện kiếp tâm nước muốn biết nó cạn sau lấy vậy mà giờ người
+muốn biết tâm họ đem tiền bạc xài đo là biết ngay ở bên đó nghe tiền bạc là cho người đó không phải
+là quân tử bởi vì người đó là tài kho tài thưởng không thông minh không thông minh là không phải
+là trường phương cho nó có cách cho nên bây giờ nói về công chuyện giàu quán rượu mà giàu quán rượu
+Người mà nhầm để là nêu cái gương tự chủ, uống rượu mà nêu được cái gương tự chủ, giữ được cái đức tính, thanh niên trong sáng nhà kế hoạch của mình.
+Ở trên vị trưởng giả ông Chí Ma Cật, gương mẫu công hàng trưởng giả này, ở trên là nêu những cái đức tính cao siêu, trong sáng tuyệt vời như thế.
+Và bây giờ đây là nêu tới cái hành động vươn mẫu này.
+Vì chúng ta là làm sao mà có những cái vươn mẫu này cho nổi mà nói chuyện là nghe kinh này rồi cống cao ngạo mạng được chứ.
+Ở phương Việt là trưởng giả bị ông Như Ma Cật nguyên mẫu trong hàng trưởng giả, vì họ mà nói chánh tháp, ở trong cư sĩ, nguyên mẫu trong hàng cư sĩ dứt hết các cái tham nhiễm tầm thường.
+Ở trong dòng sát đế lị
+Nguôn mẫu trong dòng sát đế lị
+Để dạy họ về
+Chính thức nhẫn nhục
+Ở trong dòng bà la môn
+Vì nguôn mẫu trong hàng bà la môn
+Để dạy họ từ bỏ
+Cái tấm ngã mạng cống cao
+Này
+Gọi là cư sĩ mình như thế đây
+Ở trong nội chính
+Đại thần
+Vì nguôn mẫu trong cái hàng
+Đại chính nội thần
+Dạy cho họ học về tránh tháp
+Ở trong hàng huân tử thì gương mẫu trong hàng huân tử để dạy họ về cái đạo lý dưới chung
+Ở trong nội quan gương mẫu trong cái hàng quảng quan để dạy các phung tầng về chánh tâm chánh hạnh
+Ở trong thứ dân thì gương mẫu trong hàng thứ dân để hướng dẫn họ làm đời phước thiện
+Ở trong hàng Phạm Thiên
+Vì gương mẫu trong hàng Phạm Thiên
+Để dạy họ tu về thánh tuệ
+Ở trong đế thích
+Dạy họ tu về thánh tuệ
+Ở trong đế thích
+Vì gương mẫu trong hàng đế thích
+Nhằm dạy họ về chân lý vô thường
+Của hiện tượng quản pháp
+Ở trong thân vị hộ thế
+Vì gương mẫu trong hàng hộ thế
+Để mà nhằm hộ độ
+Nhân dân lạc nhiệm an cư
+Vì mà cực giả
+Vẫn dụng cho
+Cứu thương tiện
+Như thế
+Để đem lại lợi lạc
+Con sân già
+Hôm nay trưởng giả
+Lại diễn là thân con bệnh
+Đọc cái đoạn này
+Đại chúng để ý cái này thôi nè
+Một người
+Về đạo đức
+Mà muốn cho mình có cái đạo đức cao
+Tất nhiên là mình phải thành tựu được
+Những cái thứ ngươi mẫu như vừa nói đây
+Phải ngươi mẫu hơn những người thường khác
+Tôi nhớ lại cái chuyện mà
+Ở đất nước Việt Nam mình về lịch sử
+Cái thời thập nhị sứ quân mà
+Ninh Thiên Hoàng lập nên
+Cái sự nghiệp của cái đời nhà Ninh đó
+Cái người
+Lúc đó là Ninh Bùi Lĩnh
+Cũng là một ở trong những cái
+Các cái trẻ em trong cái số hàng tranh đông
+Hoàng Tân Châu nói là
+Nếu móc cua, nếu móc còng
+Là dữ trâu dữ bò mà động
+Nhưng mà
+Ninh Bộ Lĩnh là
+Trong những cái lúc mà chia phe
+Nhau mà
+Giỡn mà chơi bằng cái kiểu như quýnh vật
+Là
+Hơn vua nhau mà
+Thì sách sử
+Nhi rằng Ninh Bộ Lĩnh có
+Cái năng khiếu
+Bây giờ mình gọi là cái năng khiếu
+Nó biểu lộ ra là con người có cái khả năng
+Lãnh đạo, điều binh, diễn tướng, phân công
+Thì nó ưu việt hơn những cái hàng trẻ em kia, đông đảo kia
+Vì vậy mà khi lớn lên rồi thì rinh bộ lĩnh học hành thêm văn ôn, giỏi luyện
+Rồi cuối cùng rồi chinh phục được hợp nhị với quân mình
+Dựng lên cái cơ nghiệp mà lập lên cái nền quân chủ đầu tiên ở Việt Nam
+Là Đinh Tiên Hoàng
+Vào đời nhà nước đó
+Thế thì về phương diện quân sự
+Phương diện xã hội
+Là nền mục nghiệp lớp của người thế gian
+Thì người đó cũng phải có một cái tài năng
+Ưu việt hơn là người thường
+Thì mới có thể là
+Là lãnh đạo
+Là có thể là
+Là chỉ huy, có thể là giáo dục
+Có thể là hướng dẫn những người khác
+Thì đó là nói về cái tài năng quân sự như là Đinh Tiên Hoàng
+Thì về cái phương diện đạo đức
+Như ta đọc cái đoạn vừa rồi
+Ngày dưới má cạch trên phương diện tu hành
+Là phải phẩm hạnh đích độ
+Phải thành cao hơn người thường cả đã
+Rồi sau đó mới nói tới chuyển sách
+Luân rằng ông này là Bồ Tát cỡ nào
+Cho nên đọc cái đoạn này rồi
+Tôi muốn nói với đại chúng là
+Hằng ngày ta tự quan sát
+Cái cuộc sống của ta
+Ta đối với người thường
+Ta có như mẫu hơn họ được cái gì không
+Về cái tính hạnh
+Về cái ăn
+Về cái ở, về cái lịch thiệp
+Về cái xã giao, về cái hiểu biết
+Về cái gọi là phước đức, tí tuệ
+Mọi mặt ở trên xã hội này
+Ta có được cái nào làm vua mẫu cho ai chưa
+Ta có hơn ai được cái nào không
+Nếu như mà mọi người như thế nào
+Mà ta cũng xem xem như thế ấy
+Thì trong cái quá trình tu tập
+Mà nói về cái quả vị đạo pháp của ta
+Thì ta tự đánh giá của ta mà ta biết thôi
+Chứ còn quả phước nhân do
+Cánh dân thùy mà hành tàm hơn
+Thật tự gia ti
+Cái nhật làm của mình nó trong sâu kích
+Nó bên trong là tự mình biết
+Còn vấn đề giải pháp giác ngộ quả phước này
+Không cần hỏi ác mà tự mình hỏi lấy
+Mình có trong mẫu được bao nhiêu hành động
+Trên
+Trên cái sự sinh hoạt của thế gian này
+Tôi muốn nhắc cho đại chúng điều đó
+Nhắc cho đại chúng cũng như là
+Tôi tự nhắc tôi
+Tôi phải có cái gì hơn người thùy một chút
+Thì đó là đánh dấu sự kết quả
+Của tu hành của tôi
+Còn nếu như người thường
+Cái chiếu nào thì tôi cũng như chiếu mấy
+Mà thậm chí tôi còn trẻ hơn nữa
+Thì dù là tôi có mặc cái áo
+Mà chẳng những cái tay 5 tắt này
+Mà nghĩa là cái tay bề xuống 1 phước
+Thì bất quá là cũng bằng mấy cô đào
+Mấy cậu kép ở trong cải lương
+Vì cái áo này là họ mai cái tay cả thước
+Để họ thắt thắt cho nó đẹp quá mà
+Chứ không ăn thua gì hết
+Người đại tha
+Không cần ở nơi này thất lóc
+Hành sức sức gia tốt, đều đó được. Nó có cái điều kiện diễm lưu dễ dàng. Nhưng mà nhiều khi sức gia mà không diễm lưu. Còn đây là hành sức của một người sĩ mà người ta như là thường phải được có vợ con, có gia đình, có mọi cái thứ làm việc như bình thường mà ta thích diễm lưu.
+Để nói lên rằng là cái sự tu hành của Đại Thừa tôi tưởng là không dựa trên hành thức, không đánh giá con người ở trên hành thức.
+Nhất là ở chỗ đó, chứ không phải là nói đến cái tư sĩ lệnh kinh.
+Lên sau nói lên, hành kiểm của mình có được những gì như cái này chưa?
+Cho nên là cái lúc mà người ta phương tôi cái câu đó là tôi nói đúng là tôi hết sức là hồn.
+Tôi bảo là gì đó?
+Chứng tỏ rằng là hiểu kinh mà thì thật không hiểu gì hết.
+Là sao lệnh kinh được?
+Nếu mà đọc thiếu kinh như vậy rồi làm sao lên kinh được nhỉ?
+Kinh gia mà đọc mà còn chích lên chích xuống.
+Thấy làm việc đại mình chưa ăn thua gì.
+Thưa ngươi chú sĩ, chú làm thế nào mà lên kinh được?
+Làm sao mà tự ao tự đã rồi?
+Tức là hôm nay là trận giải chúng ta trật hiện thân có bệnh.
+Thấy chưa hiện thân có bệnh gì vậy?
+Tức là tự hiện, chỉ tự hiện là vậy thôi.
+Do sau đó cho nên là cách đây khoảng 5-10 năm rồi tôi có nói cái chuyện, cái chuyện mà ở trong các cái lầm, cái lầm linh của các cái bài dị mà của các hoạt hợp của chư Thượng Đạo đã đứt một qua đời dùng cái chữ như là Pháp Dân Đạo Thượng, gì đó, hả, gì đó, rồi giác linh, rồi là...
+Rồi có năm nào, tháng nào đó gọi là thủy tịch. Thủy tịch, có cái chữ thủy tịch, tức là cái chết đó mà.
+Nói đúng là mình không gọi là thủy tịch.
+Nhiều cái chữ đó mình lạm dụng, nó không có nút. Mình tôn trung nó quá, quá như chơi chơi huynh. Cái mình có.
+Nói đúng là mình bây giờ không có thủy tịch.
+Có những người chết mà nhanh gọn trong vòng một vài ba ngày đó, đã là mừng lắm đó.
+Còn có người đó là đau cả năm, mười năm, kéo lê, thê, mà muốn chết không sống mà sống không được đó bà.
+Thì chẳng qua là nó đuối quá rồi thì nó chết thì sao gọi là thị tịnh đâu.
+Chứ thị có nghĩa là thị hiệp đó.
+Mà tâm đó tức là tâm có cách thị hiệp.
+Có nghĩa là cái chuyện mà muốn đi là đi.
+Tham thiền thị tịnh mà đi thì gọi là thị tịnh.
+Chứ không phải là do ngọt ngạc, là do bệnh khổ mà hàm hạ.
+Cũng như ở đây là cái việc làm này là đến nay là bệnh cho bằng thủy bì biện, tức là giá bệnh cho kìa là không có bệnh.
+Ngươi Thượng Giá, Vĩnh Ma Thật bị bệnh, chất nguyên Đại Thần Thượng Giá, Công Sĩ Bà La Rang, các Ngư Tử và các Thanh Phụ Cả Thái, mấy ngàn người lần lượt đến tỉnh Pháp của Thượng Giá để bấm an.
+ngân gia hội có người đến phát bệnh như bác Phật tuyển giả, thừa cơ suốt đánh pháp. Thưa
+tuyên ân giả, hôm này mơ cường, không mạnh, không dai, không bền, không chắc, nó là cái thứ mai mực
+nát, dễ dữ dã, chẳng đáng tin cậy, nó là cái khối phương êm các khổ đau, buồn phiền và nghi bệnh tật.
+Này, thiếu pháp tư đế đây. Cái này là nhúng thành phẩm thôi. Phong này là vô thường, không bền chất. Phong này là cái khối chứa nhóm chất cái sự khổ đau.
+Vậy đại chú nhớ là nói cái này là Phật, Phật thiếu pháp tư đế đấy. Ở cõi đời này, hoặc là một chiến tranh nào cũng có khổ khổ.
+Tức là những cái khổ mà mình không muốn có, mà nó vẫn sẽ đánh ra là trồng chất cho mình.
+Rồi cái khổ nữa là hành khổ.
+Là luôn luôn trong cơ thể mình nó sửa tuyết mà mình không muốn già, nó vẫn già.
+Răng mình không muốn ngứt, để nó rụng, mà nó vẫn ngứt, nó vẫn rụng.
+Mặt mình không muốn nhanh, mà nó vẫn cứ rụng, rồi nó cứ nói nhanh.
+Rồi lích mình muốn thẳng, mà từ từ, từ từ nó còn.
+Đầu gối là thuốc tiêu nươi mà nó kêu nó lụp cục lụp cục rồi nó xẻo xẻo.
+Thế thì đó lại gọi là hành khổ.
+Hành khổ tức là nó mộng tuyến theo một cái vô kỳ như là sân trội gì gì gì đó mà.
+Rồi cuối cùng là nó tiêu, nó tiêu hoại.
+Do đó cho nên nó không hoàn chất, nó mục nát, nó là cái khối chứa giống khổ nào.
+Thế thì việc là khổ khổ nè, hành khổ là hoại khổ nè.
+Ngoài ra còn như là á diệt luyến, quán bán hội, còn mắt đất, quán phí phạm, các quỹ biết rồi.
+Thưa thưa ngân giả, người chú không trân cậy ở thân này, nó như là bọt nước không thể cầm nắm, nó như tấm tấm không tồn tại được lâu, nó như tấm chân do khác ai mà thấy có.
+Thân này như cây chuối do mẹ nó hợp lại mà nó thành.
+Đây là những cái ví dụ rất là cụ thể
+Đại chúng mà tư như thế này là rất là hay
+Thân này như cây chuối đó
+Cây chuối là sao là nhựa
+Từng bẻ từng bẻ nó gom lại
+Cứ mà lọc ở ngoài lọc rước vô là không còn gì hết
+Thì cái từ vô ngã
+Thân này là vô ngã
+Là người ta nghĩ như là như cây chuối
+Không có ngã như là nó không có cái chủ tế
+Nó không có cái bất đương
+không có cái thường nhất, không có cái tự tại. Nếu là cứ mà ngồi ngồi, nhẹ nhẹ, lọt ra, lọt ngồi là sạch sơn, không có cái nào.
+Cho nên con lấy cái chuối để giữ gì trên cái sự ngôi ngã của cái thanh này.
+Do các cái mẹ cái chuối hẹp lại thành cái chuối thơ.
+Thanh đó không có cái nào là rác chất thanh này, những nguyễn, trời, mấy cái nguyễn nở mà nó sởi thanh.
+Chư Nguyễn là thải đó. Nó giống như hành bóng ở trong cinema. Hành bóng, hành bóng diễn biến đó.
+Thân này như ảnh do niệm yên mà hiện. Thân này như năng do năng yên mà trót.
+Thân này như mây nổi vết chất của ta mất. Thân này như chết niệm niệm không ngừng.
+thân này vô chủ nguyên tích, thân này vô ngã nguyên lửa, thân này vô khọ nguyên gió, thân này vô
+nét nguyên tích, thân này không thật là sự tổ hợp của lưu, là sự tổ hợp của tấn đại. Đấy,
+Như như đất, như gió, như lửa là cái này là nó, cái này là đại sức mà ai là người học giỏi như kinh là phải nhớ tới trên danh niên.
+Nhưng mà đất là sao? Đất là thuộc về sắc của câu đó, trong cái danh niên đó.
+Tránh sức trên không, tránh không cho. Tránh sức là thanh tật bản nhiên, cho biết bất đối nó tùy chúng thân tâm, ứng sở thi lượng và thuộc nghĩa Pháp.
+Nó hiện sắc, bản chất của nó là không, mà không nó lại, nó hiện sắc là phản giá.
+Cái chất của nó là thanh vật bản yên
+Nó không có cố định
+Lửa cũng vậy
+Lửa như trong không gian này
+Lúc nào chỗ nào cũng có lửa
+Cái chất nó thanh vật bản yên như thế
+Nhưng mà sư cần cho nó có lửa
+Mà khi mà không cần thì nó coi như nó không có vậy
+Gió cũng vậy
+Nước cũng vậy
+Nước ở trong không gian này cũng đầy nhẹp
+Nhưng mà sư cần thì hỗ tụ nó lại
+Thì nó thành nước
+Mà sư không cần thì nước trong không gian vẫn có
+Mà không có ngập luật an
+Chính là tấm thủy trên sông, tấm sông trên, thủy sân bệnh bản yên, sâu đếm phong chất, tùy chúng sanh tâm ứng sở chí lượng, một nghĩa Pháp, nói thiền.
+Cho nên là đọc những cái này á, thì cái nghề học Phật đó là phải nhớ lại của kênh Lăng Yên.
+Thì lấy cái đó và tư nhiên lại, cho nên nó thành một cái hướng dẫn tổng hợp.
+Gọi đó là đến lúc mình tư nhiên như vậy là gọi là mình tu thiền.
+Tư thuyền là mình thiền để mình tư nhiên luôn.
+Để mình tổng hợp các lời Phật giả kinh này cùng với kinh kia.
+Nó có ăn nhau, ăn nhau và có sự thật, nó có đúng chân lý như vậy không?
+Thì cái lối đó là cái lối ta tổng hợp lại các kinh điểm.
+Mà tổng hợp được như vậy á, thì trí tuệ của chúng ta lần lần nó mở mang và nó nghe lạ nói là biết, nói là biết, nói là biết, đọc là hiểu.
+Chứ còn không thì ví dụ như là phần này nó như như đất, các diễn viên như đất mà làm sao?
+Phần này như như nước, có nghĩa là nước mà làm sao? Phần này về đây còn nước mà làm sao?
+Nhưng mà nhất đây là phải hiểu là tấm thủy chân không, tấm không chân, chân thủy không mà có, có mà không, nó tùy theo cái yêu cầu, cái lượng sở trí của chiến tranh mà nó phát hiện thôi, cho nó toàn rã ra, nó phần thơi.
+Bàn bàn ở trong vũ trụ không luôn, lửa cũng vậy, gió cũng vậy.
+Hiểu được như vậy thì mình mới thấy rằng là cái phương vụ này nó rất là cụ hạn.
+Thân này vốn không, dù không có ngã, ngã sở. Thân này vô kênh, cỏ cây, hói vật. Thân này vô tác võ, do sức do dụng mà triển sống.
+Cái thân này đó, học theo các đạo khác, các tôn giáo khác mà nó gọi thân này là do một cái đấm siêu nhân siêu yên mà nào tạo ra.
+Như thế thì cái chủ trương của các tôn giáo khác là nó có khác với Đạo Phật.
+Nó chủ trương là cái thân này có tác giả.
+Nhưng mà ông về Đạo Phật thì cái thân này là không có tác giả.
+Do sức do nghiệp.
+Do sức do nghiệp mà nó hỗ trụ lại địa đại, thử đại, quả đại, không đại, không đại, chuyến đại và thất đại.
+Do thất đại đó mà nó tổng hợp lại, nó tùy theo cái nghiệp, nó tổng hợp lại cái thất đại đó mà nó nghiêm khởi, mà nó hình thành.
+Chứ bằng lẽ nó như thiện như thiện dưới mỹ, dưới lực cố hoặc dưới mỹ phân biệt.
+Xanh là tơi nơi sinh như lai tài, tơi nơi thất bại.
+Nó khác hơn chỗ đó, cho nên nó xanh này không có tác giả.
+Thì sao mà hiểu tới chỗ đó?
+Đạo Phật của ta nó sức hơn tôn giáo khác.
+Ở cái chỗ là tôn giáo khác nó có một cái đấng chương trình hình nguyên.
+Tạo ra con người bằng kiểu này, bằng kiểu chứa, bằng kiểu nào.
+Ở đây Đạo Phật đã dành xanh người không có tác giả.
+Do đó cho nên là bác ngã đó là vô ngã tướng, vô dạng tướng, vô chung sanh tướng, vô tác giả tướng.
+Nhật bằng con mắt của Tứ Tuệ, của bác ngã Ba La Mạc là dạng pháp này không có tướng ngã, không có tướng ngăn, không có tướng chung sanh và không có tướng tác giả. Không có tác giả. Dạng pháp không có tác giả.
+Và giảng pháp này không. Mà không là thế nào?
+Chúng nhân viên xâm pháp ngã thiết tất thị. Không.
+Duyệt nhi sự giá dân dự thị trung đạo nghĩa dự tăng ở cái pháp tất trùng nhân viên xâm.
+Thì có cái pháp do vô tất thị xâm giả.
+Cái pháp do nhân viên xâm cho nên Long Thọ Bồ Bát đưa ra cái chủ tiếp bác tất trung đạo của Trung Quán Luận cho rằng giảng pháp ra không.
+Mà cái không này cũng là giả danh thôi, cái không này không phải là nó là một cái để nó xâm ra các cái thứ, nó là pháp giả để nó xâm ra các thứ khác, không phải, cái không này cũng là một cái thứ giả danh.
+Mà người nào hiểu sức cũng là không mà không cũng là không, là người đó hiểu được cái chân ý trung đạo.
+Bởi vì chưa từng có một pháp nào không từ nhân duyên xâm, thế cho nên tôi nói tất cả pháp do nhân duyên, không vì vậy cho nên không pháp nào chẳng không.
+Vì tất cả Pháp đều do nhân viên sân thì, nhân viên ta như Nguyễn, vì Nguyễn cho nên tôi nói tất cả Pháp là không.
+Thành ra đó là ta học rồi ta chống học.
+Lúc đó là các gì mà học rồi các gì tự nhiên nó thành một cái thứ thiệt định.
+Mà cái thứ thiệt định là nhất định là nó phải sân trí tuệ.
+Cho đại chúng đừng có học cái thứ thiệt định mà ngồi mà giật lên giật xuống mà
+Nếu mà mình niệm một cái vừa đó để cho cái tâm hồn mình nó không có cái gì xong hết đó, cái đó không phải.
+Thiệt định thứ đó không có được cái diện tình.
+Con người là có một cái tí tuệ của con người, bỏ con người là rất là khó rồi.
+Bởi vì mình nhồi nó lại thành ra một cái khối thịt xấu nhục hàm thiên.
+Cái khối thịt biết chạy, nó hay biết diễn để làm cái gì.
+Cho nên ngồi thiền mà trong đầu nó không có cái gì hết, là cái đó không phải là thiền.
+Ngược lại cái phiền mà sức hồn đã đi thế giới này, thế giới khác, nó là một thứ tổn đoạn qua đường hồn, mà cái phiền là phải tư duy.
+Mà tương nhiên là trí tuệ nó phát sinh rồi giảnh thức chân lý một cách như là rõ ràng và sống trong cái chân lý mà mình giảnh thức được,
+thì các vị sẽ có sự giải thoát.
+Nghĩa rằng, không phải là một sự là ước mơ xa dời đâu.
+Cho nên là từng chữ, ở đây là tôi không dám nói từng chữ,
+Bởi vì nó nói hết là các vị trài nắng là chịu không nổi, rồi có người các vị không chịu nghe xin đi, có người thì chịu nha, không nhanh nha, nhiều.
+Xong quá khứ nó cũng có người chịu nghe xin đi, nhưng mà nó không có đọc.
+Thế thì tôi xích chung lại những cái mặt cần trước rồi tôi mới nhắc ra không.
+Với cái này là đối với tôi là từng câu một, từng đề tài một là tôi thấy là còn nhiều chuyện lắm, chẳng phải là đọc qua qua rồi đâu.
+Thanh này vô tác giả do gió nghiệp mà triển thanh. Thanh này bất tịnh, đầy nhảy, quế cực xấu xa.
+Ví dụ như thanh này bất tịnh mà các vị nếu mà thường thường rất nhiều người ta thấy cái bất tịnh của nó là gì?
+Nhưng mà người ta có cái cách mà quán phân bất tịnh này là trong cái thanh này là hình như bất tịnh này là ta thấy 36 vật nhân đó là tổng hợp.
+Phát Mao Cảo Sĩ Suy Lệ Nhiên Phá Níu Dịch Cấu Hẳn 12, Bì Phưu Cốt Nhuất Nhục Cân Mạch Cốt Tủy Phương Cao Nảo Mo 12 nữa,
+Trang Đảm Tràng Dị Tỳ Thận Tâm Phé Xanh Tạng Thục Tạng Xích Đàm Mạch Đàm 36 dạch tôi gọi là 3 hầm lục mạch.
+Mà sao dịch nhờ? Trên biển nó đang bắt tắt như vậy. Thành ra phần này là bất tịnh. Làm ta nhớ tới cái phần này là sự thật là bất tịnh.
+Chúng ta còn nhớ tới cái câu này, bì bao có một nguồn quân nước mà cố cắt kiều yêu cuốn hoạch nhân.
+Thiên có nụ giai tạ thử là bất lao đồng tác nhất thanh tầng. Những cái này mà làm giáo làm đẹp, đẹp nhất đó hả?
+Kỳ thật là nó là một cái đại gia
+Nó đại gia rồi nó sang điểm ở bên ngoài thôi
+Nó để mê qua con người thôi
+Chứ nó kỳ thật là một cái đại gia
+Nó chiếu 36 dạng nha trong đó
+Bao nhiêu anh hùng thiên cổ
+Đều lấy gì những cái đại gia hôn nha đó
+Nhưng mà cuối cùng được cái đại gia hôn nha đó
+Là nó trăm năm chứ không đủ trăm năm đâu
+40, 50, 60, 70
+Nó trở thành một hầm phân
+Nhờ nhớ phú thao rượu rã
+Như tất cả những hầm phân khác
+Dù đẹp mấy cũng vậy thôi
+Thật ra nó là học Phật đó mà. Rồi nó có cái sự yếu tích tổng quát. Cho nên đọc cái câu là Phật này là bất tịnh mà mình có thể thấy rõ.
+Để ngỡ các ước, kể quý thị xấu xa thân này tạm bệ, rỗng không vừa, có án mặt tấm rửa, nhưng xôi mươi cũng đều, chứa ma hoại diệt.
+Đừng bao chút nhục nhốt là vậy đó. Có ăn mặc có tóc nhỡ, kiểu nào đi nữa ăn, sạch sẽ kiểu nào đi nữa là cuối cùng người mình nó cũng là một cái đứa bất bệnh thôi.
+Thân này là tai quạ, chứa nhóm một sắp lẻ một, bệnh khổ sầu đau. Nói một sắp lẻ một á.
+Cái câu này tôi nói là chúng mà trong cái số mà hồi đó tôi học tôi cũng khổ thở về cái chữ 101 á.
+Trong quyền sơ trong sách nói rằng là nhất đại mất điều thì mất nhất bệnh sanh mà tứ đại mất điều thì tứ mất tứ bệnh sanh.
+Trong sách này là tứ đại mà một đại không điều hòa thì 101 sanh.
+Một trăm lễ một cái bệnh, bệnh khổ nữa sao, mà bốn đại sông đều hòa, thì bốn trăm lễ bốn bệnh sanh, ngồi diễn hoài, không biết tại sao mấy ông nội này nói chỉ có trăm lễ một, mà không nói trăm cho sẵn, mà cũng nói là trăm lễ hai, trăm lễ ba, trăm lễ bốn, thế thì nói trăm lễ một thì sao?
+Nhưng mà tôi nói hỏi kiểu nào mà tìm đi đâu cũng không ra
+Thì thế thì sau này tôi mới đọc cái nguyện tiểu tiết gọi là Một Ngàn Lẽ Một Đêm đó mà
+Tôi mới phát hiện ra tôi nói trời mặt ơi các cha xài dân tôi kiểu này chết em hồi đó giờ mấy chục năm
+Thì thật là nói Một Ngàn Lẽ Một Đêm chết có nghĩa là cái chuyện này là cái chuyện nói dài dài dài dài dài
+Tôi gọi là một ngàn lễ ác đêm. Thế thì ở đây không buồn đại mà không chịu thì chẳng có một sắp bệnh. Mà một sắp bệnh dở hơn nữa thì lễ ác nó sập ra. Cho nên là dù một sắp lễ ác một là vậy đó. Giống như câu chuyện là một ngày lễ ác một đêm đó.
+Chắc thì thật là cái nguyễn chuyện đó
+Đâu có phải là nói được chuyện một ngày một đêm đâu
+Nhưng mà câu chuyện
+Là vì muốn cứu một cái người cô gái đó
+Mà một cái nàng này cứ ngồi kể chuyện hoài
+Ông Vương hứa rằng là
+Khi nào phải đúng mấy giờ đó là tôi phải biết người
+Mà nếu mà kể người đó thì tôi không biết
+Cho nên đúng giờ tôi phải biết
+Thì cái nàng
+Nàng hầu này là có cái nghệ thuật kể chuyện
+Kể chuyện cho nhà Vương nha
+Sau đó là ông say mê
+Sau đó là ông kể chuyện
+Kể nữa, kể nữa. Thì cái nàng làm kể nữa. Kể nữa nó chuyện qua một lần. À giờ kể rồi, phải khỏi giết.
+Mà kể luôn bao nhiêu thời gian như vậy là làm cho cái người kia khỏi giết.
+Phút rồi cũng vô ổng đó. À vậy là cái chuyện mà giết người ta là tội ác thôi.
+Không có nhầm gì không. Giờ bỏ cái lẽ đó đi. Đấy.
+Cái gì? Cái câu chuyện một ngàn lần đêm là cái... Phải viết cái chuyện gì?
+Hồi nãy đây mà nói là Ngọc Đại mà không...
+Đùi Hòa là một câm lẽ một. Một câm lẽ một có nghĩa là...
+Thầy Phật nói, cứ thế đi lên bạn. Một ngàn là một cũng vậy thôi. Thành ra là cái sự mà tích lưỡi mà kinh điển học hành nói đúng với Đại Phúc là tôi mới tích lưỡi tới năm nay là mấy mươi năm trời. Bây giờ thì tương đối là các vị nói đúng là các vị nghe quá dễ đi.
+Còn cái thời mà chúng tôi học mà dân chứa nó còn là cổ rổ chữ nha, rồi thức giỡn nó còn hạn chế nhiều mạch, cho nên người ta có cái cách mà thường muốn chết luôn á, mà nó không ra, rồi phải mấy mươi năm trời nó mới ra được, gặp một cái điểm nào đó, thấy một cái gì đó, nghe một cái gì đó, mới tự ra.
+Thân này là sai quả. Ông chúa nhớ một sắp, chứ lẽ một bệnh khổ sầu đó. Thân này như cái nhuếm trên bất gò bao nhiêu lão bệnh, bất nhập, thường xuyên.
+Đây, cái nhuếm trên bất gò, nhuếm đâu có bao nhiêu đâu. Khiến nhuếm trên bất gò rất là khó.
+Thân này không có định gì, không biết nó sẽ chết lúc nào. Thân này như rớt mặt, như giật thần, như hội tủ. Thân thân do vũ ấm luộc nhập, thật bị sướng, thật bắt rơi, nó rá hợp lại mà nó thân ra.
+Đây, Ngài Duy Ma Cật nói một hơi như vậy đó, đó là tiến khai về cái mặt xấu, về cái mặt bại quại, mục nát, hương, thao, bở, là tạm bở của cái thân.
+Đây bây giờ là
+Là
+Nói về mặt xấu rồi
+Để cho người ta thấy cái tâm
+Là nhận thức
+Là thấy rõ
+Cái vô dụng
+Cái mật mát của thân
+Bây giờ mới chuyển sang về cái mặt
+Tích thực rồi
+Thưa các nhân giả
+Các nhân giả
+Cũng tất cả chúng ta đều phải
+Xinh xinh cái tâm xinh vẻ
+Cái thân này
+Và nên sắp cái tâm hạt bến thân Phật. Vì thân Phật là Pháp Thân. Thân Phật từng vô lưỡng con thích cưới Quệ Thân.
+Nói đến cái này là phải nhớ tới Phật Ba Thân. Phật là có ba thân. Pháp Thân, Ba Thân và Ấn Thân.
+Pháp Thanh Thật thì nhiều người nói nhiều lần rồi, Pháp Thanh Thật là, đó là từ lô giá ma.
+Như là nguyên lý thiết thứ.
+Pháp Thanh Thật thì hiện do, vẫn tồn tại trong không gian cơ bản thời gian vô cùng.
+Lúc nào ta sống với một cái tâm hồn thâm thận hoàn toàn, sống sáng không có những cái tổ chấu niệm hồn,
+Thì ta cùng với cái Pháp Thần đó, nó hòa nhập nhau thành là một, do đó cho nên tâm Phật của ta cùng tâm Phật của Sư Phật trong mọi phương đều có thể gặp nhau, hòa hợp nhau.
+Và Pháp Thần của Phật cũng như Pháp Thần của ta đều sẵn có giống nhau, không khác gì hết.
+Với điều kiện là khi nào mà tâm hồn ta hoàn toàn cho bằng chất tâm,
+chất tâm nghĩa là trở về với cái bản chất, cái bảng loại diện mục của tâm ta thành thật hoàn toàn,
+không có một chút tội cấu, những ô nào đó,
+thì Pháp Thân ta cùng với Pháp Thanh Thật vẫn hài hòa, vẫn xế hợp với nhau.
+Khi Phật có, mà ta cũng có.
+Đó là cái chân lưỡi bất thân, bất diệt, vô thủy, vô chung, gọi đó là Pháp Thanh Thật.
+Pháp Thanh Thạch cũng tức là Pháp Thanh của ta, nhớ cái đó.
+Cái thứ hai là Báo Thanh.
+Báo Thanh Thạch đó là cái Thanh đó.
+Chỉ có người nào mà trung tâm lên Thanh Thạch,
+mình đã thấy kết quả, thành tựu được kết quả của Thượng Bồ Đề,
+Thì cái người đó hưởng được cái cơ hội bầu đề, cái cơ hội giới bàn mà thôi cái người khác không có hưởng được.
+Đó là ý nghĩa của báo Phật.
+Vì cái thân đó là cái thân đền trả, đền trả đúng cái nhân mà mình đã làm.
+Giống như các vị học hành 16 năm, còn lớp 1 trở về đại học 18 năm,
+thì các vị sẽ được có sự đền trả là bác sĩ hay là kỹ sư.
+Thì cái sự tuyến tuệ cũng như cái đơn bóng của các vị làm bác sĩ, làm kỹ sư đó, chỉ có các vị hưởng tạo kỹ thuật kia, anh A, anh B, anh C, các anh khác.
+Hồi đó giờ làm biến không hoạt hành đó, không làm sao xin được cái tuyến tuệ đó. Cũng như cái vật chất, cái tiền tài mà người ta đã phát cho.
+Không ai phát cho cái người làm biến không, không hoạt hành xưa nay đâu.
+Thế thì á, cái thân của một vị thủ sư, một vị bác sĩ, và cái đơn bóng thủ luận của một vị bác sĩ, một vị thủ sư, chỉ có người đó học thành 18 năm, thành tựu rồi người đó hỏi nó.
+Đó là ý nghĩa của báo thân Phật.
+Và nói tới đó thì Đại Phúc Môn Anh Sư luận tới, vì cái lẽ thân Phật thứ hai là báo thân cho nên ta đừng có, đừng có hy vọng lại luật ở tay Đức Phật để mà cầu cái sự giúp đỡ bằng cái tình cảm thân thương của Bậc.
+Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+Cái thân thứ ba là ứng thân.
+Ứng thân là như cái Phật cao của chúng ta.
+Đó là cái ứng thân gần là thị hiện như tôi nói hồi nãy rồi.
+Nên có ba bà này chỉ vì là chai.
+Bỏ mang cho thiết kế Phật giới thiệu thiết kế Phật của chúng ta cho chúng ta biết.
+Được chỉ rõ bằng mọi phương tiện.
+Chỉ cho chúng ta nhận thức kỹ về thiết kế Phật của mình.
+Làm cho chúng ta hiểu nhận thức rõ thiết kế Phật của mình.
+Và sống trong thiết kế Phật của mình gọi là chai thị ngộ nhập.
+Phật tùy kiến cho tất cả chúng thân. Thế thì cái ứng ân đó gọi là ứng ân phệ nhiệm. Thế thì là khi mà nói cái ân Phật là Pháp thân á, thì mình phải hiểu luôn 3 cái ân như vầy.
+Thanh Phật là do tích lưỡi, vô luận, xuất đích kinh tuệ mà thanh.
+Thanh Phật là từ giới định tuệ, từ giải thoát, giải thoát kinh chuyến mà thanh.
+Giới định tuệ, giải thoát, giải thoát kinh chuyến thì gọi là ngũ phần pháp thanh.
+Người nào có đủ năm ngũ phần đó,
+người đó coi như là trở về thể nhập với pháp thanh thanh tịnh bản nguyên vô có của mình.
+Tức là giới định tuệ.
+Mà nhớ rằng là giới là cốt để có định, mà định là cốt để có tuệ.
+Có tuệ thì mới là có chứng nhận, có nhận thức về chân lý mới có được mùa thuật mùa đề.
+Giờ từ có được mùa thuật mùa đề là cái chứng tuệ không còn lầm lẫm nữa nối với Đảng Pháp, cho nên mới có được mùa thuật như vậy.
+Thế thì là giới, định, tuệ, nó là cái nhân quả liên tục như thế.
+Vì vậy cho nên tôi nhắc cho đại chúng, người nào muốn tuy thiền là cách thấp mong tuy thiền đó hãy làm mỏ mang kỹ thuệ, không có mỏ mang kỹ thuệ thì nó coi như là sai rồi, không có công dụng.
+Từ nơi giới định vệ giải thoát, giải thích thư kiến mà sanh. Từ nơi Từ Địa Chỉ Sở mà sanh. Từ nơi Đế Thí Trì Giới Nhân Ngục Tích Đấng Thiền Định mà sanh.
+Phân Phật đây. Từ nơi Phương Tiễn mà sanh. Phân Phật Từ nơi Lục Thống mà sanh. Từ nơi Cát Tính mà sanh.
+Từ nơi ba mươi bảy Phật trợ đạo mà. Đây. Phật ở chỗ này đấy.
+Cái phân Phật từ nơi ba mươi bảy Phật trợ đạo mà.
+Cho nên bây giờ ví dụ như là hành đệ tử Phật của chúng ta mà nếu mà ta muốn thành Phật như Phật.
+Mà ba mươi bảy Phật trợ đạo mà ta không có tôn quan, không có tập trành, không có tôn hoạch chút nào thì làm sao mà ta thành Phật được.
+Mà 37 phần tạo đạo là phí niệm sứ
+Tối chính cần
+Tối chính ý thích
+Vũ căn, vũ lực, pháp mù nề phật, bác chánh đạo
+Đây
+Vì vậy cho nên tôi nhắc cho đại chúng là
+Là phải học Phật là ta phải nói thiệt thôi
+Học là cốt là để hiểu
+Mà hiểu rồi là ta hành
+Hành rồi đó là ta sốt theo
+Trong cái chính pháp đó
+Thì mới có lợi
+Cái còn nữa là
+Nếu mà ngoài cách đó ra thì không có cách nào khác
+Ngờ ai trông cậy với ai là ông không được đâu
+Bất cứ ông đó là ông chỉ là
+Có nào cũng đều không được
+Thánh Phật là
+Thời nó sát mắt là thờ
+Nó ba với bảy thăm mơ đạo
+Mà thân thờ nó chuyển quán mà thân
+Chuyển quán tức là một hành thức
+Chỉ là ngang với chữ
+Thánh
+Mà quán là nó ngang với chữ lự
+Mà cái chữ thuyền thân nó cho nên là
+Thánh lự
+Thì thánh lự cũng tức là chỉ quán
+Mà chỉ quán tức là thánh lự
+Mà cẩn lợi thì chỉ đoán là một hình thức, thật sự đó là các phương pháp tu viện.
+Tờ nó thật lực.
+Tứ như thế quý, thật bác, bất cộng Pháp mà sanh tờ.
+Nơi cái chỗ dứt hết tất cả các cái Pháp bất truyền,
+chứa giống tất cả Pháp truyền mà sanh.
+Tờ nó trên thật mà sanh tờ, nó không thấm giật mà sanh tờ, nó vô lượng.
+Pháp thanh tĩnh như thế mà thành ra cái Thánh của Như Lai, thành ra cái Thánh Phật.
+Này, đại chúng nghe cái đó, đọc nghe cái đó, mình thấy mình phải điều chỉnh lại cái tư tưởng của mình,
+cũng như là điều chỉnh lại cái kinh nghiệm tu hành của mình,
+coi hồi trước giờ cái ý nghĩ của mình có đúng chưa, có sai cái gì không, rồi điều chỉnh lại.
+Thánh Phật nó hội tụ lại bằng bao nhiêu thức đức kỹ tuệ, bao nhiêu thiền định, bao nhiêu công đức lành như thế,
+Chứ không có cái chuyện mà dễ dàng, cũng có là chuyện là nổ nguyên.
+Thưa thưa đơn giả muốn được thâm thật, muốn rút bỏ cái tâm người bệnh khổ của chúng sanh,
+thì phải thoát cái tâm vô thượng bồ đề.
+Thưa đơn giả, như cái ma cật, vì muốn ngờ đến tâm bệnh mà nói những cái pháp ích cơ như thế,
+Thương thơ vô số ngàn người, pháp tâm vô thuộc bồ đề.
+Đây.
+Nhưng mà thương thơ với đại chúng là cái pháp mà nói như nãy giờ đó nha.
+Nó là pháp tiểu thừa không? Đây.
+Pháp tiểu thừa không? Đây.
+Giữa đồ nấu mà biết là tiểu thừa.
+Đây.
+Tôi xin các bạn.
+Bồ pháp như ba cạch.
+Cái phấm này là phấm phương tiện
+Dẫn dụng phương tiện
+Vì anh Phật có bệnh
+Đó là phương tiện vượt hành
+Để mà nói cái pháp vô thường
+Khổ không vô ngã
+Pháp vô ngã
+Đó là phương tiện về khẩu
+Vì hướng dẫn cho đại chúng
+Cơ toàn phải đại chúng hồi đó
+Pháp cái phấm hướng về vô thường mùa đen
+Đó là phương tiện về ý
+Từ cái chỗ
+Quá cái thân mất định do nhất
+Thật ra cái phấm am mộ Phật
+Từ cái chỗ Tiểu Thừa đưa vào cái chỗ Từ Tân mà bùi lên kêu sư Tài Thừa.
+Thế thường qua cái Phật tích Bồ Phát với Ma Phật có gần đủ những cái tấm từ đức, sĩ, tuệ, thương, thiện, biện, tài.
+Bồ Phát với Ma Phật rõ là cái thành phần của mình tức hạ và phổ cao
+Tích hạ bản cao tức là hiện thân là một người cư sĩ, nhưng mà bản chất đó là một đại Bồ Tát, gọi là tích hạ bản cao. Thành chất hiện giờ thì là một cư sĩ thôi, nhưng mà hiện thân không phải là cư sĩ đâu, mà là một nghị đại Bồ Tát.
+Thành ý, chánh tâm, tu thân, thề gia, tử ước, bình, thương hạ. Đó là cái bảo mức của các nhà chính trị cổ truyền, duy trì những ít nước lợi dân cho một nước.
+Về nhà nhoi chủ trương của mọi người mà muốn làm ít nước lợi dân là trước hết là phải thành Ấy.
+Đó là Ấy mà phải thành Thật. Phải tránh tâm. Tâm mình phải có chính thức, công quyền liên tránh.
+Rồi cái đó mới tu thân. Tu thân cho nó toàn diện tu thân rồi mới là Tài Gia.
+Tài Gia tức là sửa trị nông nhà, nấu cho đạo đức, nền hết cho đàng hoàng.
+Tài gia sống rồi mới là tỷ quốc. Rồi tỷ quốc là sau đó mới có nghĩ tới cái chuyện bình thiên hạ.
+Vì cái quá trình nó đi phải là liên tục như thế. Do đó cho nên là muốn bình thiên hạ là phải trước hết là phải sửa tỷ nước.
+Muốn tỷ nước là trước hết là phải tỷ nhà. Muốn tỷ nhà là trước đó là phải tu thân.
+Mà muốn thu thân là phải là chánh tâm. Một muốn chánh tâm là phải thành ý.
+Thì nó đi cái dạng chánh tâm thu thân tại gia trị quốc bình thiên hạ.
+Đó là cái cách của các nhà chánh trị cổ truyền.
+Bồ tát như ma cập ở cái gia cấp nào cũng gương mẫu trong gia cấp đó.
+Tất vậy thì chúng sách mới tin, mới phục về cái lý tưởng và cái mục đích của Bồ Tát, mới giảm nhớ về mục đích và lý tưởng của Bồ Tát,
+khai hưởng thực và tồn tại ở trong lòng chúng ta.
+Như vậy cho nên là phải gương mẫu, những cái điều gương mẫu đó là phải có, không có là không thể nào mà giáo hóa chúng sinh được.
+Nó ăn với cái đạo lý của thời gian mà thành ý, chấp tâm, thu phân, tệ gia, kỷ quốc, vinh, thiên hạng.
+Chứa phép là mình phải sửa mình cái đạo.
+Muốn bắt hùm phải dò hoa cọp.
+Muốn cảm hóa giới nào là phải tân sự với họ.
+Được lỗi đó Bồ Tát Quán Thế Âm đã làm dù là thủ đoạn nhưng đem lại cái diệu quả cao.
+Bồ-Tát quang với âm, ứng là 32 ứng thân.
+Nếu cần cái thân hoạch để đổ chúng thành thì quang với Bồ-Tát hiện thân hoạch mà đổ.
+Cần cái thân quang qua đồng nam, đồng nữ, thương lông, giã xa, vất vất.
+Cần thân nào đổ được họ thì Bồ-Tát đều hiện thân đó để đổ họ.
+Thì ở đây á, là Bồ-Tát như ma cạch thì cần ở cái trường hợp nào, kể cả giam, hồng, tử, thủ.
+đều có thể hiện pháp vào nó, để mà đò họ.
+Cái gì đó là một thủ đoạn đấy.
+Nhưng mà thật ra thủ đoạn và phương tiện nó chỉ là một thôi.
+Nhưng mà nó khác là cái chỗ này, là thủ đoạn hay là phương tiện
+thủy tiết sau khi kết quả của việc làm cụ thể hình thành.
+Nếu ta mới làm được cái việc đó,
+mà cái kết quả lại lạc trong mình cho người, cho tất cả chúng ta,
+Thì cái việc làm đó là gọi là phương tiện
+Còn cũng
+Cái việc làm đó
+Mà cái kết quả là
+Chỉ lợi mệnh mà ai có người khác
+Thì nó trở thành gọi là phủ đoạn
+Cái phủ đoạn là phương tiện
+Là nó có thể là việc làm
+Một hình thức giống nhau
+Nhưng mà khi nào nó là phương tiện
+Là sự kích luận
+Nói rằng là cái việc làm đó
+Của những bồ sát đó
+Làm lại lạc cho tất cả chúng ta
+Thì nó là phương tiện
+Còn nhiều người lợi của mình
+Mà làm công việc đó
+Mà khi kết quả ra là chỉ lợi mình
+Mà hại cho tất cả thì trở thành thủ đoàn
+Ví dụ như là
+Dâm hồn tử tứ
+Phía xanh tình đạo sàng
+Cũng đồng bài vào dâm hồn
+Vào tử tứ, vào quá ngữ
+Nhưng mà vào đó
+Là một sự mê tha
+Tự lạ
+Nhưng mà cũng vào đó
+Thì lại là vào đó
+Đó là một việc để mở ra. Thì cũng là một hành động giao giấm hòm vào quán rượu. Mà cái kết quả nó khác nhau. Một cái kết quả gọi là thực hiện. Một cái kết quả gọi là tự làm. Thì cái thủ đoán hay là phương tiện đó cũng giống giống như vậy.
+Thân vô thường khổ cho hóa bất tệnh
+Thân mạnh nguyễn
+Bào ảnh như ba chư
+Như tràng phát bà vân đất
+Cần phải điểm lưu
+Xin rẽ nó
+Đó là cách nhìn
+Của chúng sách tiểu thừa
+Chỗ này là đề tài chung ý
+Các cả những sự vô thừa
+Mà hư giả mọc nguyễn thịnh nắm
+Đó là cách nhìn của tiểu thừa đó nha
+Nó là giới thức tiểu thừa đó nha
+Thường nào nhận thấy được cái đích thường, lạc, ngã, tâm của hiện bồn, lạc pháp mới là người đích thực, chứng ngộ, chinh nghĩ. Đó là cái thấy của người chủng tâm đại thường.
+Cho nên sau này
+Để chúng biết cái này sau này các ngươi mới thấy
+Ở đây là khuyến khích
+Chê bai thân này tội vệ
+Như thế
+Nhưng mà sau này á
+Là Bồ Bát Như Ba Trạch sẽ dạy cho mọi người biết
+Là không hề sánh công
+Bất cứ một điều nào
+Dù điều đó là điều tốn xa
+Điều đó là điều tham sông sinh mạng
+Tham sông sinh mạng
+Tham sông sinh mạng là
+Là hợp dốc nguyên lai
+Ừ thì sau này là các ngươi mới thấy cái đó
+Tôi nói cái này để trước
+Sau này các vị mới không qua mai
+Thân sinh sinh nạn là học chất của Như Lan
+Tất cả người bảo là học chất của Như Lan
+Thân mục tác này là học chất của Như Lan
+Đó là cái tư tưởng đại thường
+Để tư tưởng nó khác nhau
+Thành ra là
+Là chê tất đó nè
+Đây là tư tưởng tiểu thừa
+Yến lưu sinh này
+Tham cầu thân thật
+Chưa phải là người thể nhật
+Cái kiến thật của chính mình
+Như vậy Pháp mà Bồ Tát
+Như Bác Cập thiết ở thẩm chức này
+Là Pháp thương tiện
+Cho nên cái thẩm này gọi là thẩm thương tiện
+Để chú ý cho tụi nó
+Sau ngày ta mới thấy
+Cái giá trị của giáo pháp này
+Hết giờ mà cũng là
+Hết không ai nữa nha
+Sự thật
+Vô biên
+Về nguyện
+Đó là biện
+Đó là vô thật
+Về nguyện
+Cảm ơn các bạn đã theo dõi và hẹn gặp lại.
