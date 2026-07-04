@@ -1,0 +1,32 @@
+name: Clean AI subtitles
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run subtitle cleaner
+        run: |
+          python tools/clean_ai_subtitles.py --source . --out data_cleaned --report reports/ai_subtitle_cleaning --apply --changed-only
+
+      - name: Upload cleaning reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-subtitle-cleaning-reports
+          path: reports/ai_subtitle_cleaning/
+
+      - name: Upload cleaned subtitles
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-subtitle-cleaned-output
+          path: data_cleaned/
